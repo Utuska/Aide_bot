@@ -1,0 +1,167 @@
+base.py [LINE:171] #INFO     [2021-04-18 14:15:12,885]  Scheduler started
+executor.py [LINE:351] #INFO     [2021-04-18 14:15:13,168]  Bot: Aide [@Aidu_bot]
+dispatcher.py [LINE:336] #INFO     [2021-04-18 14:15:13,448]  Start polling.
+base.py [LINE:886] #INFO     [2021-04-18 14:16:24,620]  Added job "migraine_record" to job store "default"
+base.py [LINE:886] #INFO     [2021-04-18 16:17:19,021]  Added job "migraine_record" to job store "default"
+base_py3.py [LINE:28] #INFO     [2021-04-18 17:00:00,011]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-19 20:00:00 MSK)" (scheduled at 2021-04-18 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-18 17:00:00,348]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-19 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-18 19:00:00,008]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-19 22:00:00 MSK)" (scheduled at 2021-04-18 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-18 19:00:00,322]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-19 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-19 17:00:00,018]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-20 20:00:00 MSK)" (scheduled at 2021-04-19 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-19 17:00:00,361]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-20 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-19 19:00:00,006]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-20 22:00:00 MSK)" (scheduled at 2021-04-19 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-19 19:00:00,327]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-20 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-20 17:00:00,020]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-21 20:00:00 MSK)" (scheduled at 2021-04-20 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-20 17:00:00,418]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-21 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-20 19:00:00,010]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-21 22:00:00 MSK)" (scheduled at 2021-04-20 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-20 19:00:00,381]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-21 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-21 17:00:00,011]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-22 20:00:00 MSK)" (scheduled at 2021-04-21 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-21 17:00:00,426]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-22 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-21 19:00:00,001]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-22 22:00:00 MSK)" (scheduled at 2021-04-21 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-21 19:00:00,136]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-22 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-22 17:00:00,010]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-23 20:00:00 MSK)" (scheduled at 2021-04-22 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-22 17:00:00,341]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-23 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-22 19:00:00,021]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-23 22:00:00 MSK)" (scheduled at 2021-04-22 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-22 19:00:00,441]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-23 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-23 17:00:00,014]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-24 20:00:00 MSK)" (scheduled at 2021-04-23 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-23 17:00:00,347]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-24 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-23 19:00:00,004]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-24 22:00:00 MSK)" (scheduled at 2021-04-23 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-23 19:00:00,356]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-24 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-24 17:00:00,004]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-25 20:00:00 MSK)" (scheduled at 2021-04-24 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-24 17:00:00,334]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-25 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-24 19:00:00,014]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-25 22:00:00 MSK)" (scheduled at 2021-04-24 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-24 19:00:00,333]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-25 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-25 17:00:00,021]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-26 20:00:00 MSK)" (scheduled at 2021-04-25 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-25 17:00:00,349]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-26 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-25 19:00:00,010]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-26 22:00:00 MSK)" (scheduled at 2021-04-25 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-25 19:00:00,339]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-26 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-26 17:00:00,016]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-27 20:00:00 MSK)" (scheduled at 2021-04-26 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-26 17:00:00,433]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-27 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-26 19:00:00,007]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-27 22:00:00 MSK)" (scheduled at 2021-04-26 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-26 19:00:00,333]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-27 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-27 17:00:00,014]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-28 20:00:00 MSK)" (scheduled at 2021-04-27 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-27 17:00:00,352]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-28 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-27 19:00:00,004]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-28 22:00:00 MSK)" (scheduled at 2021-04-27 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-27 19:00:00,316]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-28 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-28 17:00:00,009]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-29 20:00:00 MSK)" (scheduled at 2021-04-28 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-28 17:00:00,369]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-29 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-28 19:00:00,018]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-29 22:00:00 MSK)" (scheduled at 2021-04-28 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-28 19:00:00,341]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-29 22:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-29 17:00:00,003]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-30 20:00:00 MSK)" (scheduled at 2021-04-29 20:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-29 17:00:00,470]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='20', minute='0'], next run at: 2021-04-30 20:00:00 MSK)" executed successfully
+base_py3.py [LINE:28] #INFO     [2021-04-29 19:00:00,012]  Running job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-30 22:00:00 MSK)" (scheduled at 2021-04-29 22:00:00+03:00)
+base_py3.py [LINE:41] #INFO     [2021-04-29 19:00:00,324]  Job "migraine_record (trigger: cron[day_of_week='mon-sun', hour='22', minute='0'], next run at: 2021-04-30 22:00:00 MSK)" executed successfully
+error_handler.py [LINE:56] #ERROR    [2021-04-29 19:54:23,190]  Update: {"update_id": 613369643, "message": {"message_id": 1722, "from": {"id": 521804630, "is_bot": false, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "language_code": "ru"}, "chat": {"id": 521804630, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "type": "private"}, "date": 1619726059, "text": "/send", "entities": [{"offset": 0, "length": 5, "type": "bot_command"}]}} 
+(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 XPA96CUp1wg-LigAtuNYjOuKJl3dq271ogpLKERG5YnZ_l_n5JlKqblK7zGj2SYivyoJ9\n5.7.14 dspEPDfJU4tSTCP712bU8niyGMMxU7XQ8ayXT7yvTsps8qefIsdkW4yHtd5LYEr1>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 h12sm679257qtq.1 - gsmtp')
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 XPA96CUp1wg-LigAtuNYjOuKJl3dq271ogpLKERG5YnZ_l_n5JlKqblK7zGj2SYivyoJ9\n5.7.14 dspEPDfJU4tSTCP712bU8niyGMMxU7XQ8ayXT7yvTsps8qefIsdkW4yHtd5LYEr1>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 h12sm679257qtq.1 - gsmtp')
+base_events.py [LINE:1707] #ERROR    [2021-04-29 19:54:23,194]  Task exception was never retrieved
+future: <Task finished name='Task-48791' coro=<Dispatcher._process_polling_updates() done, defined at /home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=SMTPAuthenticationError(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 XPA96CUp1wg-LigAtuNYjOuKJl3dq271ogpLKERG5YnZ_l_n5JlKqblK7zGj2SYivyoJ9\n5.7.14 dspEPDfJU4tSTCP712bU8niyGMMxU7XQ8ayXT7yvTsps8qefIsdkW4yHtd5LYEr1>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 h12sm679257qtq.1 - gsmtp')>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 XPA96CUp1wg-LigAtuNYjOuKJl3dq271ogpLKERG5YnZ_l_n5JlKqblK7zGj2SYivyoJ9\n5.7.14 dspEPDfJU4tSTCP712bU8niyGMMxU7XQ8ayXT7yvTsps8qefIsdkW4yHtd5LYEr1>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 h12sm679257qtq.1 - gsmtp')
+error_handler.py [LINE:56] #ERROR    [2021-04-29 19:56:03,518]  Update: {"update_id": 613369645, "message": {"message_id": 1726, "from": {"id": 521804630, "is_bot": false, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "language_code": "ru"}, "chat": {"id": 521804630, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "type": "private"}, "date": 1619726161, "text": "/send", "entities": [{"offset": 0, "length": 5, "type": "bot_command"}]}} 
+(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt\n5.7.14 YQOQYRpniY-9PZ5JUIlz60nhqKdcV02Y10OMBZKztCwHiHMDRVBnfjKjugv04lwrzDptm\n5.7.14 Dtuw8adE9yu9-PDm23H77Ey3VUyby6dYDuDKaP4pyYldvBYfFXrd3qXH521D-kZD>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 k15sm688697qtg.68 - gsmtp')
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt\n5.7.14 YQOQYRpniY-9PZ5JUIlz60nhqKdcV02Y10OMBZKztCwHiHMDRVBnfjKjugv04lwrzDptm\n5.7.14 Dtuw8adE9yu9-PDm23H77Ey3VUyby6dYDuDKaP4pyYldvBYfFXrd3qXH521D-kZD>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 k15sm688697qtg.68 - gsmtp')
+base_events.py [LINE:1707] #ERROR    [2021-04-29 19:56:03,519]  Task exception was never retrieved
+future: <Task finished name='Task-48805' coro=<Dispatcher._process_polling_updates() done, defined at /home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=SMTPAuthenticationError(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt\n5.7.14 YQOQYRpniY-9PZ5JUIlz60nhqKdcV02Y10OMBZKztCwHiHMDRVBnfjKjugv04lwrzDptm\n5.7.14 Dtuw8adE9yu9-PDm23H77Ey3VUyby6dYDuDKaP4pyYldvBYfFXrd3qXH521D-kZD>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 k15sm688697qtg.68 - gsmtp')>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt\n5.7.14 YQOQYRpniY-9PZ5JUIlz60nhqKdcV02Y10OMBZKztCwHiHMDRVBnfjKjugv04lwrzDptm\n5.7.14 Dtuw8adE9yu9-PDm23H77Ey3VUyby6dYDuDKaP4pyYldvBYfFXrd3qXH521D-kZD>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 k15sm688697qtg.68 - gsmtp')
+error_handler.py [LINE:56] #ERROR    [2021-04-29 20:59:55,259]  Update: {"update_id": 613369647, "message": {"message_id": 1730, "from": {"id": 521804630, "is_bot": false, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "language_code": "ru"}, "chat": {"id": 521804630, "first_name": "Андрей", "last_name": "Утушкин", "username": "deltacentr", "type": "private"}, "date": 1619729992, "text": "/send", "entities": [{"offset": 0, "length": 5, "type": "bot_command"}]}} 
+(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 hsu7FfU1dOz5ghCUlfxa5SdchQG6GwIyLfPHre0Qu_E0RUodc8BX5x3sxGg0b_Ozq5iLZ\n5.7.14 12482Wf9mT3gRRfU_xqWNh8yj8RiF7n5sr-mPLsKSXz6kGSkbuOHSxVixcCc2NEh>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 e13sm832702qtm.35 - gsmtp')
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 hsu7FfU1dOz5ghCUlfxa5SdchQG6GwIyLfPHre0Qu_E0RUodc8BX5x3sxGg0b_Ozq5iLZ\n5.7.14 12482Wf9mT3gRRfU_xqWNh8yj8RiF7n5sr-mPLsKSXz6kGSkbuOHSxVixcCc2NEh>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 e13sm832702qtm.35 - gsmtp')
+base_events.py [LINE:1707] #ERROR    [2021-04-29 20:59:55,259]  Task exception was never retrieved
+future: <Task finished name='Task-49005' coro=<Dispatcher._process_polling_updates() done, defined at /home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=SMTPAuthenticationError(534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 hsu7FfU1dOz5ghCUlfxa5SdchQG6GwIyLfPHre0Qu_E0RUodc8BX5x3sxGg0b_Ozq5iLZ\n5.7.14 12482Wf9mT3gRRfU_xqWNh8yj8RiF7n5sr-mPLsKSXz6kGSkbuOHSxVixcCc2NEh>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 e13sm832702qtm.35 - gsmtp')>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 246, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/home/ubuntu/aide_bot/handlers/users/migraine_diary/send_diary.py", line 106, in update_email
+    server.login(mail_from, password)
+  File "/usr/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/usr/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/usr/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, b'5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbu\n5.7.14 hsu7FfU1dOz5ghCUlfxa5SdchQG6GwIyLfPHre0Qu_E0RUodc8BX5x3sxGg0b_Ozq5iLZ\n5.7.14 12482Wf9mT3gRRfU_xqWNh8yj8RiF7n5sr-mPLsKSXz6kGSkbuOHSxVixcCc2NEh>\n5.7.14 Please log in via your web browser and then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 e13sm832702qtm.35 - gsmtp')
